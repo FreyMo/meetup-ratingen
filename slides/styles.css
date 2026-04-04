@@ -1,0 +1,13 @@
+/* Workaround for https://github.com/slidevjs/slidev/issues/2519 */
+
+#slidev-goto-dialog .autocomplete-list {
+  display: none;
+}
+
+#slidev-goto-dialog:not(.-top-20) .autocomplete-list {
+  display: block;
+}
+
+.slidev-code {
+  font-size: 0.875rem !important;
+}

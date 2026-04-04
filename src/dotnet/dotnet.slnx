@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="csharp/csharp.csproj" />
+  <Project Path="fsharp/fsharp.fsproj" />
+</Solution>
